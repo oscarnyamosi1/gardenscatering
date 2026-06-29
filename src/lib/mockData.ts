@@ -59,7 +59,7 @@ export const MOCK_USERS = [
 
 export const MENU_ITEMS = [
   { id: 1, name: "All sorts of Pilau", category: "Mains", price: "Shs 2800", description: "Pilau origi ya kikwetu.", tags: ["gluten-free"], img: "https://res.cloudinary.com/dw0l7b86h/image/upload/v1781538228/IMG-20260615-WA0087_unb6ju.jpg" },
-  { id: 2, name: "Nyama Choma", category: "Appetizers", price: "Shs 3200", description: "(Nyam Chom) Grilled Steak / BBQ (Berbeque)  .", tags: ["halal"], img: "https://res.cloudinary.com/dw0l7b86h/image/upload/v1781538208/IMG-20260615-WA0069_xwgo6r.jpg" },
+  { id: 2, name: "Nyama Choma", category: "Appetizers", price: "Shs 3200", description: "(Nyam Chom) Grilled Steak / BBQ (Berbeque)  .", tags: ["halal"], img: "https://res.cloudinary.com/dw0l7b86h/image/upload/v1782748487/WhatsApp_Image_2026-06-29_at_15.19.56_qfk1wt.jpg" },
   { id: 3, name: "Vegetable Rice", category: "Mains", price: "Shs 4500", description: "Pilau with a variety of vegetables.", tags: ["halal", "gluten-free"], img: "https://res.cloudinary.com/dw0l7b86h/image/upload/v1780941161/unnamed_7_gw27ih.jpg" },
   { id: 4, name: "Local Delicacies (eg. Managu)", category: "Mains", price: "Shs 3800", description: "Local delicacies.", tags: ["halal", "gluten-free"], img: "https://res.cloudinary.com/dw0l7b86h/image/upload/v1782393606/IMG-20260617-WA0002_fqe3nw.jpg" },
   { id: 5, name: "Smoothie", category: "Beverages", price: "Shs 3400", description: "Made by the best of local organic fruits.", tags: ["vegan", "gluten-free"], img: "https://res.cloudinary.com/dw0l7b86h/image/upload/v1781549761/mango_smoothie_v8pzeh.jpg" },
