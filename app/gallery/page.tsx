@@ -12,11 +12,11 @@ const CATEGORIES = ['All', 'Events', 'Food', 'Venues'];
 
 const IMAGES = [
   { id: 1, src: 'https://res.cloudinary.com/dw0l7b86h/image/upload/v1781538225/IMG-20260615-WA0089_djy9qo.jpg', category: 'Events', title: 'Gala Dinner Setup' },
-  { id: 2, src: `${CLOUDINARY_URL}/wedding_qoa5tx.jpg`, category: 'Venues', title: 'Outdoor Reception' },
-  { id: 3, src: `${CLOUDINARY_URL}/corporate_fjolag.jpg`, category: 'Events', title: 'Corporate Buffet' },
-  { id: 4, src: `${CLOUDINARY_URL}/dish-stew_lmh6cd.jpg`, category: 'Food', title: 'Slow Braised Stew' },
-  { id: 5, src: `${CLOUDINARY_URL}/unnamed_4_tuk9az.jpg`, category: 'Food', title: 'Appetizer' },
-  { id: 6, src: `${CLOUDINARY_URL}/unnamed_3_gfoeca.jpg`, category: 'Venues', title: 'Intimate Dining' },
+  { id: 2, src: `https://res.cloudinary.com/dw0l7b86h/image/upload/v1782748490/WhatsApp_Image_2026-06-29_at_15.19.55_1_ynw9fz.jpg`, category: 'Venues', title: 'Outdoor Reception' },
+  { id: 3, src: `https://res.cloudinary.com/dw0l7b86h/image/upload/v1782748491/WhatsApp_Image_2026-06-29_at_15.20.03_2_fqc1ph.jpg`, category: 'Events', title: 'Corporate Buffet' },
+  { id: 4, src: `https://res.cloudinary.com/dw0l7b86h/image/upload/v1782748489/WhatsApp_Image_2026-06-29_at_15.20.03_1_tv1gym.jpg`, category: 'Food', title: 'Slow Braised Stew' },
+  { id: 5, src: `https://res.cloudinary.com/dw0l7b86h/image/upload/v1782748486/WhatsApp_Image_2026-06-29_at_15.20.04_1_zbgter.jpg`, category: 'Food', title: 'Appetizer' },
+  { id: 6, src: `https://res.cloudinary.com/dw0l7b86h/image/upload/v1782745945/WhatsApp_Image_2026-06-29_at_15.44.51_kglfsd.jpg`, category: 'Venues', title: 'Intimate Dining' },
   { id: 7, src: `${CLOUDINARY_URL}/unnamed_11_oamiov.jpg`, category: 'Food', title: 'Artisanal Dessert' },
   { id: 8, src: `${CLOUDINARY_URL}/unnamed_12_q7qjxj.jpg`, category: 'Food', title: 'Signature Drinks' },
   { id: 9, src: 'https://res.cloudinary.com/dw0l7b86h/image/upload/v1782393611/IMG-20260617-WA0000_u13390.jpg',category:'food',title:''},
@@ -48,7 +48,7 @@ const IMAGES = [
   { id: 35, src: "https://res.cloudinary.com/dw0l7b86h/image/upload/v1782393563/IMG-20260617-WA0016_xvrpai.jpg" ,category:'food',title:''},
   { id: 36, src: "https://res.cloudinary.com/dw0l7b86h/image/upload/v1782393562/IMG-20260617-WA0027_bkfj2y.jpg" ,category:'food',title:''},
   { id: 37, src: "https://res.cloudinary.com/dw0l7b86h/image/upload/v1782393562/IMG-20260617-WA0025_pweuxo.jpg" ,category:'food',title:''},
-  { id: 38, src: "https://res.cloudinary.com/dw0l7b86h/image/upload/v1782393561/IMG-20260624-WA0007_d1u3xh.jpg" ,category:'food',title:''},
+  { id: 38, src: "https://res.cloudinary.com/dw0l7b86h/image/upload/v1782748489/WhatsApp_Image_2026-06-29_at_15.20.04_fhrzou.jpg" ,category:'food',title:''},
 
 ];
 
